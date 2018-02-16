@@ -6,6 +6,7 @@
 * Mongoose with Promises
 * Prebuilt MVC folder structure
 * Bootstrap grid components
+* structured with Heroku deployment in mind.
 
 
 ### To use, open your command line interface/bash to the desired folder and type
